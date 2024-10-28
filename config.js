@@ -71,14 +71,14 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.packname = 'DEMON SANJU'
+global.author = 'DEMON SANJU'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
-global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
-global.fgsc = 'https://github.com/'
-global.fgyt = 'https://youtube.com/'
-global.fgpyp = 'https://youtube.com/'
+global.igfg = 
+global.dygp = 
+global.fgsc = 
+global.fgyt = 
+global.fgpyp = 
 global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
 global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
